@@ -1,1 +1,2 @@
 this is my file 2 for git course
+adding some lines to test git test cases
