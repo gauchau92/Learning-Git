@@ -6,3 +6,6 @@ fixed another bug
 one more bug detected and fixed.
 
 fixed the bug-4, code working fine now.
+
+fixed major bug-5, code working fine now.
+fixed minor bug-6.
