@@ -1,2 +1,6 @@
 I'm a fix file which fixes the bugs :)
 fixed the bug-1, code working fine now
+
+fixed another bug
+
+one more bug detected and fixed.
