@@ -4,3 +4,8 @@ fixed the bug-1, code working fine now
 fixed bug-2, code working fine now.
 
 fixed the major bug-3, relaxed now.
+
+fixed the bug-4, code working fine now.
+
+fixed major bug-5, code working fine now.
+fixed minor bug-6.
