@@ -2,3 +2,5 @@ I'm a fix file which fixes the bugs :)
 fixed the bug-1, code working fine now
 
 fixed bug-2, code working fine now.
+
+fixed the major bug-3, relaxed now.
